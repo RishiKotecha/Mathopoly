@@ -1,0 +1,38 @@
+{
+  "Gamestate" : 0,
+  "Playercount" : 1,
+  "Players" : {
+    "Player1" : {
+      "Name" : " ",
+      "Position " : {
+        "X" : 0,
+        "Y" : 0
+      },
+      "Score" : 0
+    },
+    "Player2" : {
+      "Name" : " ",
+      "Position" : {
+        "X" : 0,
+        "Y" : 0
+      },
+      "Score" : 0
+    },
+    "Player3" : {
+      "Name" : " ",
+      "Position" : {
+        "X" : 0,
+        "Y" : 0
+      },
+      "Score" : 0
+    },
+    "Player4" : {
+      "Name" : " ",
+      "Position" : {
+        "X" : 0,
+        "Y" : 0
+      },
+      "Score" : 0
+    }
+  }
+}
